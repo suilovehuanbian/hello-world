@@ -2,6 +2,6 @@
 my first repository
 #include <stdio.h>
 int main(){
-
-  return 0;
+pinrf("Hello World!");
+return 0;
 }
